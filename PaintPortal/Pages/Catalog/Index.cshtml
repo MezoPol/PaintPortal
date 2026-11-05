@@ -1,0 +1,68 @@
+﻿@page
+@model PaintPortal.Pages.Catalog.IndexModel
+@{
+    ViewData["Title"] = "Paint Catalog";
+}
+
+<h1 class="mb-3">Paint Catalog</h1>
+
+<form method="get" class="row g-2 mb-4">
+    <div class="col-12 col-md-5">
+        <input type="text" name="Search" value="@Model.Search" class="form-control" placeholder="Search by name..." />
+    </div>
+    <div class="col-8 col-md-4">
+        <select name="Brand" class="form-select">
+            <option value="">All brands</option>
+            @foreach (var brand in Model.Brands)
+            {
+                <option value="@brand" selected="@(brand == Model.Brand)">@brand</option>
+            }
+        </select>
+    </div>
+    <div class="col-4 col-md-3">
+        <button type="submit" class="btn btn-primary w-100">Search</button>
+    </div>
+</form>
+
+<p class="text-muted">Found: @Model.TotalCount paints</p>
+
+<div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-3">
+    @foreach (var paint in Model.Paints)
+    {
+        <div class="col">
+            <div class="card h-100">
+                <div style="height: 80px; background-color: @paint.HexColor;"></div>
+                <div class="card-body">
+                    <h2 class="h6 card-title">
+                        <a asp-page="/Catalog/Details" asp-route-id="@paint.Id" asp-route-slug="@Slug.From(paint.Brand + " " + paint.Name)" class="stretched-link text-decoration-none text-dark">@paint.Name</a>
+                    </h2>
+                    <p class="card-text small text-muted mb-0">@paint.Brand &middot; @paint.Type</p>
+                    <p class="card-text small text-muted">@paint.HexColor</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@if (Model.TotalPages > 1)
+{
+    <nav aria-label="Catalog pages" class="mt-4">
+        <ul class="pagination justify-content-center">
+            <li class="page-item @(Model.PageNumber <= 1 ? "disabled" : "")">
+                <a class="page-link" asp-page="/Catalog/Index"
+                   asp-route-PageNumber="@(Model.PageNumber - 1)"
+                   asp-route-Search="@Model.Search"
+                   asp-route-Brand="@Model.Brand">Previous</a>
+            </li>
+            <li class="page-item disabled">
+                <span class="page-link">Page @Model.PageNumber of @Model.TotalPages</span>
+            </li>
+            <li class="page-item @(Model.PageNumber >= Model.TotalPages ? "disabled" : "")">
+                <a class="page-link" asp-page="/Catalog/Index"
+                   asp-route-PageNumber="@(Model.PageNumber + 1)"
+                   asp-route-Search="@Model.Search"
+                   asp-route-Brand="@Model.Brand">Next</a>
+            </li>
+        </ul>
+    </nav>
+}

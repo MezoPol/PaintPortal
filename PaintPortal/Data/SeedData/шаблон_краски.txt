@@ -1,0 +1,12 @@
+﻿
+  {
+    "Brand": "БРЕНД",
+    "Name": "НАЗВАНИЕ КРАСКИ",
+    "HexColor": "#FFFFFF",
+    "Type": "ТИП",
+    "Range": "ЛИНЕЙКА",
+    "Equivalents": [
+      { "Brand": "БРЕНД2", "Name": "АНАЛОГ", "HexColor": "#FFFFFF", "MatchLevel": "Close" },
+      { "Brand": "БРЕНД3", "Name": "АНАЛОГ", "HexColor": "#FFFFFF", "MatchLevel": "Approximate" }
+    ]
+  }

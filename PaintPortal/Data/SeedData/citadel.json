@@ -1,0 +1,2444 @@
+﻿[
+  {
+    "Brand": "Citadel",
+    "Name": "Abaddon Black",
+    "HexColor": "#231F20",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Black",
+        "HexColor": "#1C1C1C",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Matt Black",
+        "HexColor": "#1A1A1A",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Black",
+        "HexColor": "#1E1E1E",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ceramite White",
+    "HexColor": "#F5F5F5",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color White",
+        "HexColor": "#FFFFFF",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Matt White",
+        "HexColor": "#F8F8F8",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "White",
+        "HexColor": "#FFFFFF",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mephiston Red",
+    "HexColor": "#8A0707",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Scarlet",
+        "HexColor": "#7E0E0E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Pure Red",
+        "HexColor": "#8B0000",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Deep Red",
+        "HexColor": "#7A0A0A",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Macragge Blue",
+    "HexColor": "#0D407F",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Prussian Blue",
+        "HexColor": "#0A3A6B",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Ultramarine Blue",
+        "HexColor": "#0E3D7A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Blue",
+        "HexColor": "#0C3870",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Caliban Green",
+    "HexColor": "#00421F",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Green",
+        "HexColor": "#003D1A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Angel Green",
+        "HexColor": "#006633",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Green",
+        "HexColor": "#004020",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Leadbelcher",
+    "HexColor": "#7C8083",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gunmetal Grey",
+        "HexColor": "#6E7275",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Gunmetal",
+        "HexColor": "#6B6E70",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Steel",
+        "HexColor": "#7A7D80",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Retributor Armour",
+    "HexColor": "#C9933A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gold",
+        "HexColor": "#C49A2A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Shining Gold",
+        "HexColor": "#C8962E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Gold",
+        "HexColor": "#C6902C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Agrax Earthshade",
+    "HexColor": "#3D2B1F",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Sepia",
+        "HexColor": "#3A2A1C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Strong Tone",
+        "HexColor": "#3C2B1E",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Sepia Wash",
+        "HexColor": "#3E2D20",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nuln Oil",
+    "HexColor": "#1A1A2E",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Black",
+        "HexColor": "#151525",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Dark Tone",
+        "HexColor": "#181828",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Wash",
+        "HexColor": "#161626",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Druchii Violet",
+    "HexColor": "#3A1A5C",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Violet",
+        "HexColor": "#351755",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Purple Tone",
+        "HexColor": "#38185A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Violet Wash",
+        "HexColor": "#361858",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ushabti Bone",
+    "HexColor": "#C8B97A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Bone White",
+        "HexColor": "#C5B572",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Skeleton Bone",
+        "HexColor": "#C9BA7C",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Aged Bone",
+        "HexColor": "#C7B778",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Balthasar Gold",
+    "HexColor": "#7C5A2A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Brass",
+        "HexColor": "#7A5828",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Brassy Brass",
+        "HexColor": "#7E5C2C",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Brass",
+        "HexColor": "#7C5A2A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Rhinox Hide",
+    "HexColor": "#3D1C0E",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Chocolate Brown",
+        "HexColor": "#3A1A0C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Oak Brown",
+        "HexColor": "#3C1B0D",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Brown",
+        "HexColor": "#3B1A0C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Averland Sunset",
+    "HexColor": "#F5A800",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gold Yellow",
+        "HexColor": "#F2A200",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Daemonic Yellow",
+        "HexColor": "#F4A600",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Yellow",
+        "HexColor": "#F6AA00",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wraithbone",
+    "HexColor": "#E8DDB8",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Pale Sand",
+        "HexColor": "#E4D9B4",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Skeleton Bone",
+        "HexColor": "#E6DBB6",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Ivory",
+        "HexColor": "#E8DDB8",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Chaos Black",
+    "HexColor": "#1A1A1A",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Black",
+        "HexColor": "#1C1C1C",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Matt Black",
+        "HexColor": "#181818",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Black Primer",
+        "HexColor": "#1A1A1A",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Corax White",
+    "HexColor": "#E8E8E8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Ghost White",
+        "HexColor": "#E6E6E6",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Matt White",
+        "HexColor": "#F8F8F8",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Screaming Skull",
+    "HexColor": "#D8CCA0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Iraqi Sand",
+        "HexColor": "#D4C89A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Skeleton Bone",
+        "HexColor": "#C9BA7C",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Warboss Green",
+    "HexColor": "#3C8C2C",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Goblin Green",
+        "HexColor": "#3A8A2A",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Goblin Green",
+        "HexColor": "#3A8A28",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Evil Sunz Scarlet",
+    "HexColor": "#BE1E1E",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Red",
+        "HexColor": "#AA1122",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Dragon Red",
+        "HexColor": "#C02020",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wazdakka Red",
+    "HexColor": "#A01020",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Red",
+        "HexColor": "#AA1122",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Blood Red",
+        "HexColor": "#A81010",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Caledor Sky",
+    "HexColor": "#1A68A8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Sky Blue",
+        "HexColor": "#1C6CAC",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Electric Blue",
+        "HexColor": "#1A6AAA",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "The Fang",
+    "HexColor": "#484C50",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Panzer Grey",
+        "HexColor": "#4C5054",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Uniform Grey",
+        "HexColor": "#4A4E52",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Panzer Grey",
+        "HexColor": "#4A4E52",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mournfang Brown",
+    "HexColor": "#7C4822",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Brown",
+        "HexColor": "#7E4C24",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Leather Brown",
+        "HexColor": "#7A4A20",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Rust",
+        "HexColor": "#8A3A10",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Zandri Dust",
+    "HexColor": "#9E8E5C",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Khaki",
+        "HexColor": "#A09060",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Desert Yellow",
+        "HexColor": "#A29262",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Castellan Green",
+    "HexColor": "#585C28",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color US Dark Green",
+        "HexColor": "#5C602C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Army Green",
+        "HexColor": "#5A5E2A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Olive Drab",
+        "HexColor": "#5A5E2A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Bugman's Glow",
+    "HexColor": "#C67E54",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Basic Skintone",
+        "HexColor": "#CA8660",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Barbarian Flesh",
+        "HexColor": "#C8825C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Flesh Base",
+        "HexColor": "#C8845A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Drakenhof Nightshade",
+    "HexColor": "#1C2C4C",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Blue",
+        "HexColor": "#182848",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Blue Tone",
+        "HexColor": "#1A2A4A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Biel-Tan Green",
+    "HexColor": "#1C4C1C",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Green",
+        "HexColor": "#184818",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Green Tone",
+        "HexColor": "#1A4A1A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Seraphim Sepia",
+    "HexColor": "#C6A676",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": [
+      {
+        "Brand": "Army Painter",
+        "Name": "Soft Tone",
+        "HexColor": "#C8A878",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Sepia Wash",
+        "HexColor": "#3E2D20",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nurgling Green",
+    "HexColor": "#BAC87C",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Army Painter",
+        "Name": "Necrotic Flesh",
+        "HexColor": "#B8C87A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Sick Green",
+        "HexColor": "#B6C678",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Administratum Grey",
+    "HexColor": "#898D91",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Medium Grey",
+        "HexColor": "#8C9094",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Ash Grey",
+        "HexColor": "#8A8E92",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Skrag Brown",
+    "HexColor": "#8C3C12",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Brown",
+        "HexColor": "#7E4C24",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Rust",
+        "HexColor": "#8A3A10",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Loren Forest",
+    "HexColor": "#286038",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": [
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Green",
+        "HexColor": "#2A6B3C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Goblin Green",
+        "HexColor": "#3A8A28",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Abaddon Black",
+    "HexColor": "#231F20",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Averland Sunset",
+    "HexColor": "#F5A623",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Balthasar Gold",
+    "HexColor": "#8B6914",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Bugman's Glow",
+    "HexColor": "#A86752",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Caliban Green",
+    "HexColor": "#005C27",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Castellan Green",
+    "HexColor": "#4A5C28",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ceramite White",
+    "HexColor": "#EEEDEB",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Death Guard Green",
+    "HexColor": "#7A8C6E",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Deathworld Forest",
+    "HexColor": "#3D4A2A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Dryad Bark",
+    "HexColor": "#2A1A0E",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Incubi Darkness",
+    "HexColor": "#0A3A3A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ionrach Skin",
+    "HexColor": "#C8B49A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Jokaero Orange",
+    "HexColor": "#E05020",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Kantor Blue",
+    "HexColor": "#0D1A4A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Khorne Red",
+    "HexColor": "#5C0A0A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Leadbelcher",
+    "HexColor": "#8A8D8F",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Macragge Blue",
+    "HexColor": "#1A4A7A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mechanicus Standard Grey",
+    "HexColor": "#3D4045",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mephiston Red",
+    "HexColor": "#83000E",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mournfang Brown",
+    "HexColor": "#7A4520",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Naggaroth Night",
+    "HexColor": "#2A0A4A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nocturne Green",
+    "HexColor": "#0A2010",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Orruk Flesh",
+    "HexColor": "#6A8A4A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Rakarth Flesh",
+    "HexColor": "#C8C0A0",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ratskin Flesh",
+    "HexColor": "#C8835A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Rhinox Hide",
+    "HexColor": "#3A1508",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Retributor Armour",
+    "HexColor": "#C09020",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Screamer Pink",
+    "HexColor": "#C03060",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Steel Legion Drab",
+    "HexColor": "#8A7850",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "The Fang",
+    "HexColor": "#3D5463",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Thousand Sons Blue",
+    "HexColor": "#1A8A9A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ulthuan Grey",
+    "HexColor": "#E8EAE0",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Waaagh! Flesh",
+    "HexColor": "#2A5020",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "White Scar",
+    "HexColor": "#F8F8F8",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wraithbone",
+    "HexColor": "#E8DCBC",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "XV-88",
+    "HexColor": "#9A7840",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Zandri Dust",
+    "HexColor": "#A0916A",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Runelord Brass",
+    "HexColor": "#907030",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Warplock Bronze",
+    "HexColor": "#6A4A20",
+    "Type": "Base",
+    "Range": "Base",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Administratum Grey",
+    "HexColor": "#8C8C8C",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Altdorf Guard Blue",
+    "HexColor": "#1A5090",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Auric Armour Gold",
+    "HexColor": "#D4A830",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Balor Brown",
+    "HexColor": "#8A6A30",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Baneblade Brown",
+    "HexColor": "#A08A70",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Blue Horror",
+    "HexColor": "#A0B0C8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Cadian Fleshtone",
+    "HexColor": "#C8835A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Caledor Sky",
+    "HexColor": "#1F5FAA",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Canoptek Alloy",
+    "HexColor": "#A0C8A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Cawdor Brown",
+    "HexColor": "#8A6840",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Dawnstone",
+    "HexColor": "#808080",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Deepkin Flesh",
+    "HexColor": "#D4C8B0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Eldar Flesh",
+    "HexColor": "#F0C890",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Emperor's Children",
+    "HexColor": "#D060A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Evil Sunz Scarlet",
+    "HexColor": "#BC1E2D",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Fenrisian Grey",
+    "HexColor": "#7A8EA8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Fire Dragon Bright",
+    "HexColor": "#E85020",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Flash Gitz Yellow",
+    "HexColor": "#F8D020",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Flayed One Flesh",
+    "HexColor": "#E8D8B8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Fulgurite Copper",
+    "HexColor": "#C08040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Gauss Blaster Green",
+    "HexColor": "#90E0A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Genestealer Purple",
+    "HexColor": "#8040B0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Gorthor Brown",
+    "HexColor": "#7A5A3A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Gretchin Green",
+    "HexColor": "#6A8A40",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Hashut Copper",
+    "HexColor": "#C07040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Hobgrot Hide",
+    "HexColor": "#A08040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Hormagaunt Purple",
+    "HexColor": "#6030A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ironbreaker",
+    "HexColor": "#A8ACAE",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Kabalite Green",
+    "HexColor": "#287A58",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Karak Stone",
+    "HexColor": "#B0A080",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Kislev Flesh",
+    "HexColor": "#D8A880",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Knight-Questor Flesh",
+    "HexColor": "#C89070",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Liberator Gold",
+    "HexColor": "#D4A830",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Longbeard Grey",
+    "HexColor": "#C0BEA8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Loren Forest",
+    "HexColor": "#2D6A4F",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Lothern Blue",
+    "HexColor": "#40A0D0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Lucius Lilac",
+    "HexColor": "#C090D0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Moot Green",
+    "HexColor": "#40C040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nurgling Green",
+    "HexColor": "#B0C87A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ogryn Camo",
+    "HexColor": "#90A060",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Pink Horror",
+    "HexColor": "#D86090",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Praxeti White",
+    "HexColor": "#F0F0F8",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Russ Grey",
+    "HexColor": "#6080A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Runefang Steel",
+    "HexColor": "#C8CCCE",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Skarsnik Green",
+    "HexColor": "#60A040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Skullcrusher Brass",
+    "HexColor": "#B09040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Squig Orange",
+    "HexColor": "#D04020",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Stormvermin Fur",
+    "HexColor": "#808070",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Sycorax Bronze",
+    "HexColor": "#A07840",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Tau Light Ochre",
+    "HexColor": "#D0A040",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Temple Guard Blue",
+    "HexColor": "#4090A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Thunderhawk Blue",
+    "HexColor": "#506070",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Tyrant Skull",
+    "HexColor": "#D8C898",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ulthuan Grey",
+    "HexColor": "#E8EAE0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ungor Flesh",
+    "HexColor": "#C09870",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ushabti Bone",
+    "HexColor": "#CDB87A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Warboss Green",
+    "HexColor": "#3D8B37",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wazdakka Red",
+    "HexColor": "#A0122A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wild Rider Red",
+    "HexColor": "#E03020",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wych Flesh",
+    "HexColor": "#E0C090",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Xereus Purple",
+    "HexColor": "#5C2E8A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Yriel Yellow",
+    "HexColor": "#F0D828",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Corax White",
+    "HexColor": "#EEEDEB",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Screaming Skull",
+    "HexColor": "#D4C9A0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Skaven Brown",
+    "HexColor": "#6A4A28",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Sotek Green",
+    "HexColor": "#1A706A",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Troggoth Cyan",
+    "HexColor": "#20A0B0",
+    "Type": "Layer",
+    "Range": "Layer",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Agrax Earthshade",
+    "HexColor": "#A0712A",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Athonian Camoshade",
+    "HexColor": "#3A5020",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Biel-Tan Green",
+    "HexColor": "#1E4E1E",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Carroburg Crimson",
+    "HexColor": "#6A1020",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Casandora Yellow",
+    "HexColor": "#D09020",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Coelia Greenshade",
+    "HexColor": "#1A5040",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Cryptek Armourshade",
+    "HexColor": "#405060",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Drakenhof Nightshade",
+    "HexColor": "#1C2D4E",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Druchii Violet",
+    "HexColor": "#3C1A5E",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Fuegan Orange",
+    "HexColor": "#C03010",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nuln Oil",
+    "HexColor": "#262B2D",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Reikland Fleshshade",
+    "HexColor": "#A05030",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Seraphim Sepia",
+    "HexColor": "#B8935A",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Soulblight Grey",
+    "HexColor": "#505060",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Targor Rageshade",
+    "HexColor": "#6A4020",
+    "Type": "Shade",
+    "Range": "Shade",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Astorath Red",
+    "HexColor": "#C02030",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Eldar Flesh (Dry)",
+    "HexColor": "#E8C090",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Etherium Blue",
+    "HexColor": "#A0C0D8",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Hexos Palesun",
+    "HexColor": "#F0E890",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Hoarfrost",
+    "HexColor": "#D0E8F0",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Imrik Blue",
+    "HexColor": "#3080C0",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Kindleflame",
+    "HexColor": "#F0C040",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Kroxigor Scales",
+    "HexColor": "#30A080",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Lugganath Orange",
+    "HexColor": "#F09050",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Niblet Green",
+    "HexColor": "#60C050",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Necron Compound",
+    "HexColor": "#C8CCCE",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Praxeti White",
+    "HexColor": "#F0F0F8",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ryza Rust",
+    "HexColor": "#D06020",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Stormfang",
+    "HexColor": "#8090A8",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Terminatus Stone",
+    "HexColor": "#C8C0A0",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Tyrant Skull (Dry)",
+    "HexColor": "#D8C898",
+    "Type": "Dry",
+    "Range": "Dry",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Aggaros Dunes",
+    "HexColor": "#C09050",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Aethermatic Blue",
+    "HexColor": "#4090D0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Akhelian Green",
+    "HexColor": "#308060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Apothecary White",
+    "HexColor": "#D0D8D0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Basilicanum Grey",
+    "HexColor": "#404040",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Berserker Bloodshade",
+    "HexColor": "#A01020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Black Templar",
+    "HexColor": "#201810",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Blood Angels Red",
+    "HexColor": "#800010",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Creed Camo",
+    "HexColor": "#506030",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Dark Angels Green",
+    "HexColor": "#103020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Darkoath Flesh",
+    "HexColor": "#C06040",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Doomfire Magenta",
+    "HexColor": "#A01060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Flesh Tearers Red",
+    "HexColor": "#900020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Fyreslayer Flesh",
+    "HexColor": "#E08060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Garaghak's Sewer",
+    "HexColor": "#506040",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Gore-grunta Fur",
+    "HexColor": "#804020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Grey Seer",
+    "HexColor": "#C8C8C8",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Gryph-charger Grey",
+    "HexColor": "#6080A0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Guilliman Flesh",
+    "HexColor": "#D08060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ironjawz Yellow",
+    "HexColor": "#D09020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Leviadon Blue",
+    "HexColor": "#1040A0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Luxion Purple",
+    "HexColor": "#601080",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Magos Purple",
+    "HexColor": "#5020A0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Militarum Green",
+    "HexColor": "#304020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nazdreg Yellow",
+    "HexColor": "#E0A020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nighthaunt Gloom",
+    "HexColor": "#4080A0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ork Flesh",
+    "HexColor": "#507040",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Plaguebearer Flesh",
+    "HexColor": "#8A9060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Pylar Glacier",
+    "HexColor": "#80D0E0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Shyish Purple",
+    "HexColor": "#501060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Sigvald Burgundy",
+    "HexColor": "#601030",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Skeleton Horde",
+    "HexColor": "#C0A060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Snakebite Leather",
+    "HexColor": "#906030",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Space Wolves Grey",
+    "HexColor": "#7090B0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Striking Scorpion Green",
+    "HexColor": "#20C050",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Talassar Blue",
+    "HexColor": "#2060C0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Terradon Turquoise",
+    "HexColor": "#30A080",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Ultramarine Blue",
+    "HexColor": "#2040A0",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Volupus Pink",
+    "HexColor": "#C04080",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Warp Lightning",
+    "HexColor": "#20C060",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wyldwood",
+    "HexColor": "#503020",
+    "Type": "Contrast",
+    "Range": "Contrast",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Agrellan Earth",
+    "HexColor": "#907050",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Agrellan Badland",
+    "HexColor": "#705040",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Astrogranite",
+    "HexColor": "#606060",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Blood for the Blood God",
+    "HexColor": "#800010",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mordant Earth",
+    "HexColor": "#302010",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nihilakh Oxide",
+    "HexColor": "#60A090",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Nurgle's Rot",
+    "HexColor": "#70A030",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Stirland Mud",
+    "HexColor": "#705040",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Typhus Corrosion",
+    "HexColor": "#304020",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Valhallan Blizzard",
+    "HexColor": "#F0F0F8",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Waystone Green",
+    "HexColor": "#40A040",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Soulstone Blue",
+    "HexColor": "#1040D0",
+    "Type": "Technical",
+    "Range": "Technical",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Chaos Black",
+    "HexColor": "#1A1A1A",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Corax White",
+    "HexColor": "#EEEDEB",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Wraithbone",
+    "HexColor": "#E8DCBC",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Grey Seer (Spray)",
+    "HexColor": "#C8C8C8",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Death Guard Green (Spray)",
+    "HexColor": "#7A8C6E",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mechanicus Standard Grey (Spray)",
+    "HexColor": "#3D4045",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Macragge Blue (Spray)",
+    "HexColor": "#1A4A7A",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Mephiston Red (Spray)",
+    "HexColor": "#83000E",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Leadbelcher (Spray)",
+    "HexColor": "#8A8D8F",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Retributor Armour (Spray)",
+    "HexColor": "#C09020",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Citadel",
+    "Name": "Zandri Dust (Spray)",
+    "HexColor": "#A0916A",
+    "Type": "Spray",
+    "Range": "Spray",
+    "Equivalents": []
+  }
+]

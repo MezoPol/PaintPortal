@@ -1,0 +1,2207 @@
+[
+  {
+    "Brand": "Army Painter",
+    "Name": "Matt Black",
+    "HexColor": "#1A1A1A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Abaddon Black",
+        "HexColor": "#231F20",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Black",
+        "HexColor": "#1C1C1C",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Black",
+        "HexColor": "#1E1E1E",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Matt White",
+    "HexColor": "#F8F8F8",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Ceramite White",
+        "HexColor": "#EEEDEB",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color White",
+        "HexColor": "#FFFFFF",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "White",
+        "HexColor": "#FFFFFF",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Pure Red",
+    "HexColor": "#9B0000",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Mephiston Red",
+        "HexColor": "#83000E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Scarlet",
+        "HexColor": "#B72020",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Deep Red",
+        "HexColor": "#7A0A0A",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Dragon Red",
+    "HexColor": "#BE1E2D",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Evil Sunz Scarlet",
+        "HexColor": "#BC1E2D",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Bloody Red",
+        "HexColor": "#C21E1E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Red",
+        "HexColor": "#C01E1E",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Ultramarine Blue",
+    "HexColor": "#0E3D7A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Macragge Blue",
+        "HexColor": "#1A4A7A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Prussian Blue",
+        "HexColor": "#0A3A6B",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Blue",
+        "HexColor": "#0C3870",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Wilderness Green",
+    "HexColor": "#2A5A20",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Caliban Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Green",
+        "HexColor": "#004020",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Skeleton Bone",
+    "HexColor": "#CDB87A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Ushabti Bone",
+        "HexColor": "#CDB87A",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Bone White",
+        "HexColor": "#CDB87A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Aged Bone",
+        "HexColor": "#CDB87A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Strong Tone",
+    "HexColor": "#A0712A",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Agrax Earthshade",
+        "HexColor": "#A0712A",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Sepia",
+        "HexColor": "#3A2A1C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Sepia Wash",
+        "HexColor": "#3E2D20",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Dark Tone",
+    "HexColor": "#262B2D",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nuln Oil",
+        "HexColor": "#262B2D",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Black",
+        "HexColor": "#151525",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Wash",
+        "HexColor": "#161626",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Leather Brown",
+    "HexColor": "#7A4520",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Mournfang Brown",
+        "HexColor": "#7A4520",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Brown",
+        "HexColor": "#7A4520",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Leather Brown",
+        "HexColor": "#7A4820",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Goblin Green",
+    "HexColor": "#3D8B37",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Warboss Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Goblin Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Goblin Green",
+        "HexColor": "#3C8C2A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Daemonic Yellow",
+    "HexColor": "#F5A623",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Averland Sunset",
+        "HexColor": "#F5A623",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gold Yellow",
+        "HexColor": "#F5A623",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Yellow",
+        "HexColor": "#F6AA00",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Gunmetal",
+    "HexColor": "#8A8D8F",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Leadbelcher",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gunmetal Grey",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Steel",
+        "HexColor": "#7A7D80",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Shining Gold",
+    "HexColor": "#C09020",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Retributor Armour",
+        "HexColor": "#C09020",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gold",
+        "HexColor": "#C09020",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Gold",
+        "HexColor": "#C6902C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Brassy Brass",
+    "HexColor": "#8B6914",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Balthasar Gold",
+        "HexColor": "#8B6914",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Brass",
+        "HexColor": "#8B6914",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Brass",
+        "HexColor": "#7C5A2A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Purple Tone",
+    "HexColor": "#38185A",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Druchii Violet",
+        "HexColor": "#3C1A5E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Violet",
+        "HexColor": "#351755",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Violet Wash",
+        "HexColor": "#361858",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Soft Tone",
+    "HexColor": "#C8A878",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Seraphim Sepia",
+        "HexColor": "#B8935A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Sepia",
+        "HexColor": "#C4A274",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Sepia Wash",
+        "HexColor": "#C8A878",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Green Tone",
+    "HexColor": "#1A4A1A",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Biel-Tan Green",
+        "HexColor": "#1E4E1E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Green",
+        "HexColor": "#184818",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Green Wash",
+        "HexColor": "#1A4C1A",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Blue Tone",
+    "HexColor": "#1A2A4A",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Drakenhof Nightshade",
+        "HexColor": "#1C2D4E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Blue",
+        "HexColor": "#182848",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Blue Wash",
+        "HexColor": "#1A2C4C",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Necrotic Flesh",
+    "HexColor": "#B8C87A",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Sick Green",
+        "HexColor": "#B6C678",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Zombie Flesh",
+        "HexColor": "#B8CA7A",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Ash Grey",
+    "HexColor": "#8C8C8C",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Administratum Grey",
+        "HexColor": "#8C8C8C",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Medium Grey",
+        "HexColor": "#8C8C8C",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Medium Grey",
+        "HexColor": "#8C8C8C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Uniform Grey",
+    "HexColor": "#3D5463",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "The Fang",
+        "HexColor": "#3D5463",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Panzer Grey",
+        "HexColor": "#3D5463",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Panzer Grey",
+        "HexColor": "#3D5463",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Oak Brown",
+    "HexColor": "#3A1508",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Rhinox Hide",
+        "HexColor": "#3A1508",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Chocolate Brown",
+        "HexColor": "#3A1508",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Brown",
+        "HexColor": "#3A1508",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Desert Yellow",
+    "HexColor": "#A0916A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Zandri Dust",
+        "HexColor": "#A0916A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Khaki",
+        "HexColor": "#A0916A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Khaki",
+        "HexColor": "#A09060",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Electric Blue",
+    "HexColor": "#1A6AAA",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Caledor Sky",
+        "HexColor": "#1F5FAA",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Sky Blue",
+        "HexColor": "#1F5FAA",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Blue",
+        "HexColor": "#1868A6",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Barbarian Flesh",
+    "HexColor": "#A86752",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Bugman's Glow",
+        "HexColor": "#A86752",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Basic Skintone",
+        "HexColor": "#A86752",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Flesh Base",
+        "HexColor": "#A86752",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Army Green",
+    "HexColor": "#5A5E2A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Castellan Green",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color US Dark Green",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Olive Drab",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Blood Red",
+    "HexColor": "#9B2335",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Mephiston Red",
+        "HexColor": "#83000E",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Scarlet",
+        "HexColor": "#B72020",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Deep Red",
+        "HexColor": "#7A0A0A",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Necromancer Cloak",
+    "HexColor": "#3A3D44",
+    "Type": "Warpaints Fanatic",
+    "Range": "Warpaints Fanatic",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Eshin Grey",
+        "HexColor": "#4B4E54",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Black Grey",
+        "HexColor": "#43484A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Angel Green",
+    "HexColor": "#005C27",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Caliban Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Viper Green",
+    "HexColor": "#5AAA2A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Warboss Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Goblin Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Mold Green",
+    "HexColor": "#6A8A50",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Loren Forest",
+        "HexColor": "#2D6A4F",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Green",
+        "HexColor": "#2A6B3C",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Jade Green",
+    "HexColor": "#2A7A5A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Kabalite Green",
+        "HexColor": "#287A58",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Camo Green",
+    "HexColor": "#4A5E2A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Castellan Green",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Olive Drab",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Dark Green",
+    "HexColor": "#1A3A1A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Caliban Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Green",
+        "HexColor": "#004020",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Plague Green",
+    "HexColor": "#8AB82A",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Sick Green",
+        "HexColor": "#B6C678",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Monster Green",
+    "HexColor": "#2A9A2A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Warboss Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Goblin Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Greenskin",
+    "HexColor": "#2A6A3A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Warboss Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Green",
+        "HexColor": "#2A6B3C",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Wicker Green",
+    "HexColor": "#A0B870",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Sick Green",
+        "HexColor": "#B6C678",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Forest Green",
+    "HexColor": "#2A4A1A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Caliban Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Green",
+        "HexColor": "#004020",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Oozing Green",
+    "HexColor": "#6AAA3A",
+    "Type": "Contrast",
+    "Range": "Speedpaint",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Warboss Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Goblin Green",
+        "HexColor": "#3D8B37",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Sickly Green",
+    "HexColor": "#9ACA5A",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Necrotic Flesh",
+        "HexColor": "#B8C87A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Swamp Green",
+    "HexColor": "#4A5A2A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Castellan Green",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Olive Drab",
+        "HexColor": "#4A5C28",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Oak Green",
+    "HexColor": "#3A5A2A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Loren Forest",
+        "HexColor": "#2D6A4F",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Green",
+        "HexColor": "#2A6B3C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Lava Orange",
+    "HexColor": "#E05010",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Troll Slayer Orange",
+        "HexColor": "#E25818",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Orange Red",
+        "HexColor": "#E03010",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Phoenix Flames",
+    "HexColor": "#FF6020",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Fire Dragon Bright",
+        "HexColor": "#FF6018",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Orange",
+        "HexColor": "#FF5A18",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Fiery Orange",
+    "HexColor": "#E86020",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Troll Slayer Orange",
+        "HexColor": "#E25818",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Orange Red",
+        "HexColor": "#E03010",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Ruddy Flesh",
+    "HexColor": "#C86040",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Cadian Fleshtone",
+        "HexColor": "#C87050",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Basic Skintone",
+        "HexColor": "#A86752",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Dwarf Skin",
+    "HexColor": "#C07850",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Bugman's Glow",
+        "HexColor": "#A86752",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Basic Skintone",
+        "HexColor": "#A86752",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Flesh Base",
+        "HexColor": "#A86752",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Elven Flesh",
+    "HexColor": "#E8A880",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Kislev Flesh",
+        "HexColor": "#E0A878",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Flesh",
+        "HexColor": "#E8AA80",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Tanned Flesh",
+    "HexColor": "#B07040",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Mournfang Brown",
+        "HexColor": "#7A4520",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Flesh",
+        "HexColor": "#E8AA80",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Deep Blue",
+    "HexColor": "#0A2060",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Macragge Blue",
+        "HexColor": "#1A4A7A",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Prussian Blue",
+        "HexColor": "#082848",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Blue",
+        "HexColor": "#0C3870",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Crystal Blue",
+    "HexColor": "#4080C0",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Caledor Sky",
+        "HexColor": "#1F5FAA",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Sky Blue",
+        "HexColor": "#1F5FAA",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Wolf Grey",
+    "HexColor": "#8090A8",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Fenrisian Grey",
+        "HexColor": "#7A8EA8",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Medium Grey",
+        "HexColor": "#8C8C8C",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Space Wolves Grey",
+    "HexColor": "#7090B0",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Fenrisian Grey",
+        "HexColor": "#7A8EA8",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Sky Grey",
+        "HexColor": "#7890B0",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Warlock Purple",
+    "HexColor": "#6030A0",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Xereus Purple",
+        "HexColor": "#5C2E8A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Hexed Lichen",
+        "HexColor": "#5A2E8C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Alien Purple",
+    "HexColor": "#8040C0",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Genestealer Purple",
+        "HexColor": "#8040B0",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Hexed Lichen",
+        "HexColor": "#5A2E8C",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Tentacle Pink",
+    "HexColor": "#D060A0",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Emperor's Children",
+        "HexColor": "#CC60A0",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Squid Pink",
+        "HexColor": "#D06898",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Warpaint Pink",
+    "HexColor": "#E080B0",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Pink Horror",
+        "HexColor": "#DA7AAE",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Squid Pink",
+        "HexColor": "#D06898",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Sun Yellow",
+    "HexColor": "#F8D020",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Flash Gitz Yellow",
+        "HexColor": "#F8D018",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Sun Yellow",
+        "HexColor": "#F8CC18",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Lemon Yellow",
+    "HexColor": "#F0E040",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Yriel Yellow",
+        "HexColor": "#F0D828",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Sun Yellow",
+        "HexColor": "#F8CC18",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Zombie Skin",
+    "HexColor": "#C8CCA0",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Necrotic Flesh",
+        "HexColor": "#B8C87A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Dirt Spatter",
+    "HexColor": "#6A4020",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Mournfang Brown",
+        "HexColor": "#7A4520",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Brown",
+        "HexColor": "#7A4520",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Mud Brown",
+    "HexColor": "#5A3818",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Rhinox Hide",
+        "HexColor": "#3A1508",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Chocolate Brown",
+        "HexColor": "#3A1508",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Dark Brown",
+        "HexColor": "#3A1508",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Hardened Leather",
+    "HexColor": "#8A5030",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Skrag Brown",
+        "HexColor": "#8B4513",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Brown",
+        "HexColor": "#7A4520",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Plate Metal",
+    "HexColor": "#A8ACAF",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Ironbreaker",
+        "HexColor": "#A8ACAE",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Silver",
+        "HexColor": "#A8ACAF",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Steel",
+        "HexColor": "#7A7D80",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "True Copper",
+    "HexColor": "#B06030",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Screaming Bell",
+        "HexColor": "#B05A28",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Copper",
+        "HexColor": "#B06232",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Weapon Bronze",
+    "HexColor": "#907030",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Balthasar Gold",
+        "HexColor": "#8B6914",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Brass",
+        "HexColor": "#8B6914",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Brass",
+        "HexColor": "#7C5A2A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Red Tone",
+    "HexColor": "#6A1010",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Carroburg Crimson",
+        "HexColor": "#6A1018",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Red",
+        "HexColor": "#681010",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Flesh Tone",
+    "HexColor": "#C89060",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Reikland Fleshshade",
+        "HexColor": "#C88A60",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Flesh",
+        "HexColor": "#C68E5E",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Light Tone",
+    "HexColor": "#C8B870",
+    "Type": "Shade",
+    "Range": "Quickshade",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Seraphim Sepia",
+        "HexColor": "#B8935A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Soft Tone",
+        "HexColor": "#C8A878",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Rough Iron",
+    "HexColor": "#6A6E72",
+    "Type": "Metallic",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Leadbelcher",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gunmetal Grey",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Gunmetal",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Troll Claws",
+    "HexColor": "#3A7A6A",
+    "Type": "Layer",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Kabalite Green",
+        "HexColor": "#287A58",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Dark Green",
+        "HexColor": "#005C27",
+        "MatchLevel": "Approximate"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Ivy Green",
+    "HexColor": "#4A7A3A",
+    "Type": "Base",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Loren Forest",
+        "HexColor": "#2D6A4F",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Flat Green",
+        "HexColor": "#2A6B3C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Toxic Mist",
+    "HexColor": "#6ABA8A",
+    "Type": "Layer",
+    "Range": "Speedpaint",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Wicker Green",
+        "HexColor": "#A0B870",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Chaosblack",
+    "HexColor": "#141414",
+    "Type": "Primer",
+    "Range": "Primers",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Chaos Black",
+        "HexColor": "#1A1A1A",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "AK Interactive",
+        "Name": "Black Primer",
+        "HexColor": "#1A1A1A",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Demonic Yellow",
+    "HexColor": "#F5A623",
+    "Type": "Base",
+    "Range": "Warpaints Fanatic",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Averland Sunset",
+        "HexColor": "#F5A623",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gold Yellow",
+        "HexColor": "#F5A623",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Disgusting Slime",
+    "HexColor": "#8AC840",
+    "Type": "Contrast",
+    "Range": "Speedpaint",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Nurgling Green",
+        "HexColor": "#B0C87A",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Army Painter",
+        "Name": "Plague Green",
+        "HexColor": "#8AB82A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Greedy Gold",
+    "HexColor": "#C8A14A",
+    "Type": "Metallic",
+    "Range": "Warpaints Fanatic Metallics",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Retributor Armour",
+        "HexColor": "#C09020",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Glorious Gold",
+        "HexColor": "#C89A3B",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Scaly Hide",
+    "HexColor": "#939F8C",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Deathworld Forest",
+        "HexColor": "#8A9273",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Interior Grey Green",
+        "HexColor": "#95A08B",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Gun Metal",
+    "HexColor": "#666B70",
+    "Type": "Metallic",
+    "Range": "Warpaints Fanatic Metallics",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Leadbelcher",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Gunmetal Grey",
+        "HexColor": "#8A8D8F",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Red Copper",
+    "HexColor": "#A65A38",
+    "Type": "Metallic",
+    "Range": "Warpaints Fanatic Metallics",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Hashut Copper",
+        "HexColor": "#A45A35",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Bright Bronze",
+        "HexColor": "#A45C38",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Banshee Brown",
+    "HexColor": "#D3B79A",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Karak Stone",
+        "HexColor": "#C9AF86",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Iraqi Sand",
+        "HexColor": "#D4C9A0",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Shining Silver",
+    "HexColor": "#C7CCD0",
+    "Type": "Metallic",
+    "Range": "Warpaints Fanatic Metallics",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Stormhost Silver",
+        "HexColor": "#D0D3D6",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Air Silver",
+        "HexColor": "#C9CED2",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Grimoire Purple",
+    "HexColor": "#5A3C73",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Xereus Purple",
+        "HexColor": "#5B3B76",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Hexed Lichen",
+        "HexColor": "#5A3D74",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Plate Mail Metal",
+    "HexColor": "#9DA3A8",
+    "Type": "Metallic",
+    "Range": "Warpaints Fanatic Metallics",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Ironbreaker",
+        "HexColor": "#A4A8AC",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Natural Steel",
+        "HexColor": "#A0A4A8",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Bright Gold",
+    "HexColor": "#D6B15A",
+    "Type": "Metallic",
+    "Range": "Warpaints Fanatic Metallics",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Liberator Gold",
+        "HexColor": "#D5C4AA",
+        "MatchLevel": "Approximate"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Polished Gold",
+        "HexColor": "#D3B35A",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Jungle Green",
+    "HexColor": "#2F6A43",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Warpstone Glow",
+        "HexColor": "#2F7046",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Dark Green",
+        "HexColor": "#2E6B42",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Crusted Sore",
+    "HexColor": "#6A1F2D",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Flesh Tearers Red",
+        "HexColor": "#6F1E2A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Gory Red",
+        "HexColor": "#6C1F2C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Dry Rust",
+    "HexColor": "#A3562A",
+    "Type": "Effects",
+    "Range": "Battlefields Effects",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Ryza Rust",
+        "HexColor": "#B05A2A",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Orange Brown",
+        "HexColor": "#A65A30",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Moon Dust",
+    "HexColor": "#E4D7AE",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Wraithbone",
+        "HexColor": "#E8DCBC",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Pale Sand",
+        "HexColor": "#E4D9B4",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Glistening Blood",
+    "HexColor": "#7A0F18",
+    "Type": "Effects",
+    "Range": "Warpaints Effects",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Blood for the Blood God",
+        "HexColor": "#7C1018",
+        "MatchLevel": "Exact"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Effects Fresh Blood",
+        "HexColor": "#791018",
+        "MatchLevel": "Exact"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Wizard's Orb",
+    "HexColor": "#00726A",
+    "Type": "Effects",
+    "Range": "Warpaints Effects",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Soulstone Blue",
+        "HexColor": "#43BEE0",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Game Color Magic Blue",
+        "HexColor": "#45C2E2",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Flesh Wash",
+    "HexColor": "#8E604A",
+    "Type": "Wash",
+    "Range": "Warpaints Washes",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Reikland Fleshshade",
+        "HexColor": "#8B5E49",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Wash Flesh",
+        "HexColor": "#90624C",
+        "MatchLevel": "Close"
+      }
+    ]
+  },
+  {
+    "Brand": "Army Painter",
+    "Name": "Mummy Robes",
+    "HexColor": "#EFE7D2",
+    "Type": "Warpaint",
+    "Range": "Warpaints",
+    "Equivalents": [
+      {
+        "Brand": "Citadel",
+        "Name": "Screaming Skull",
+        "HexColor": "#D4C9A0",
+        "MatchLevel": "Close"
+      },
+      {
+        "Brand": "Vallejo",
+        "Name": "Model Color Ivory",
+        "HexColor": "#F0E8D0",
+        "MatchLevel": "Close"
+      }
+    ]
+  }
+]

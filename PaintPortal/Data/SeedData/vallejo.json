@@ -1,0 +1,714 @@
+﻿[
+  {
+    "Brand": "Vallejo",
+    "Name": "Black",
+    "HexColor": "#1C1C1C",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "White",
+    "HexColor": "#FFFFFF",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Scarlet",
+    "HexColor": "#7E0E0E",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Flat Red",
+    "HexColor": "#AA1122",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Prussian Blue",
+    "HexColor": "#0A3A6B",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Dark Green",
+    "HexColor": "#003D1A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Khaki",
+    "HexColor": "#A09060",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Game Color Goblin Green",
+    "HexColor": "#3A8A2A",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Yellow Ochre",
+    "HexColor": "#C8900A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Bone White",
+    "HexColor": "#C5B572",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Flat Green",
+    "HexColor": "#2A6B3C",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Flat Brown",
+    "HexColor": "#7E4C24",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Sky Blue",
+    "HexColor": "#1C6CAC",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Ghost White",
+    "HexColor": "#E6E6E6",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Iraqi Sand",
+    "HexColor": "#D4C89A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "US Dark Green",
+    "HexColor": "#5C602C",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Basic Skintone",
+    "HexColor": "#CA8660",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Panzer Grey",
+    "HexColor": "#4C5054",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Medium Grey",
+    "HexColor": "#8C9094",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Game Color Sick Green",
+    "HexColor": "#B6C678",
+    "Type": "Layer",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Gunmetal Grey",
+    "HexColor": "#6E7275",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Gold",
+    "HexColor": "#C49A2A",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Brass",
+    "HexColor": "#7A5828",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Chocolate Brown",
+    "HexColor": "#3A1A0C",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Deck Tan",
+    "HexColor": "#F0E0A0",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Mahogany Brown",
+    "HexColor": "#6B2A1A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "English Uniform",
+    "HexColor": "#9B8B6E",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Dark Blue",
+    "HexColor": "#1A2A5A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Sombre Grey",
+    "HexColor": "#6A6E72",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Off White",
+    "HexColor": "#F5F0E8",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Silver Grey",
+    "HexColor": "#C0C4C8",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Copper",
+    "HexColor": "#B06030",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Flat Earth",
+    "HexColor": "#7A5A3A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Purple",
+    "HexColor": "#602080",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Medium Blue",
+    "HexColor": "#3060A0",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "White Grey",
+    "HexColor": "#E8E8F0",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Squid Pink",
+    "HexColor": "#D06898",
+    "Type": "Layer",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "German Grey",
+    "HexColor": "#4A4E52",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Neutral Grey",
+    "HexColor": "#8090A0",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Model Color Red",
+    "HexColor": "#AA1122",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Fluorescent Green",
+    "HexColor": "#40FF40",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Silver",
+    "HexColor": "#C8CCCE",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Saddle Brown",
+    "HexColor": "#8B4513",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Carmine Red",
+    "HexColor": "#990020",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Light Orange",
+    "HexColor": "#F0A060",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Glossy Black",
+    "HexColor": "#1A1A1A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Midnight Purple",
+    "HexColor": "#2A0A4A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Old Gold",
+    "HexColor": "#B08020",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Orange Fluo",
+    "HexColor": "#FF8020",
+    "Type": "Layer",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Intermediate Green",
+    "HexColor": "#4A8A4A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Dark Sand",
+    "HexColor": "#C8A870",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "USA Olive Drab",
+    "HexColor": "#6B6B3A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Buff",
+    "HexColor": "#D4B896",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Goblin Green",
+    "HexColor": "#3A8A2A",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Hexed Lichen",
+    "HexColor": "#5A2E8C",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Moon Yellow",
+    "HexColor": "#F0C020",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Rosa Purple",
+    "HexColor": "#C060A0",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Sick Green",
+    "HexColor": "#B6C678",
+    "Type": "Layer",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Sunny Skin Tone",
+    "HexColor": "#E8B080",
+    "Type": "Base",
+    "Range": "Game Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Black Green",
+    "HexColor": "#1A2A1A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Bronze",
+    "HexColor": "#8B6914",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Brown Sand",
+    "HexColor": "#C0A070",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Brown Violet",
+    "HexColor": "#6A4060",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Cavalry Brown",
+    "HexColor": "#7A4020",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Dark Flesh",
+    "HexColor": "#6A2A1A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Dark Prussian Blue",
+    "HexColor": "#082848",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Dark Sea Grey",
+    "HexColor": "#6A8090",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Deep Green",
+    "HexColor": "#1A4A2A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Flat Yellow",
+    "HexColor": "#F0D020",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Foundation White",
+    "HexColor": "#F0F0F0",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "German Cam Orange Ochre",
+    "HexColor": "#C08A30",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "German Uniform",
+    "HexColor": "#5A6A40",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Glossy White",
+    "HexColor": "#F8F8F8",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Green Brown",
+    "HexColor": "#4A6A30",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Green Grey",
+    "HexColor": "#6A8A70",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Green Ochre",
+    "HexColor": "#8A9040",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Grey Green",
+    "HexColor": "#708070",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Gunship Green",
+    "HexColor": "#4A6A3A",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Lime Green",
+    "HexColor": "#80C040",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Matt Varnish",
+    "HexColor": "#F5F5F5",
+    "Type": "Technical",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Metal Medium",
+    "HexColor": "#C8CCCE",
+    "Type": "Metallic",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Orange Brown",
+    "HexColor": "#C07030",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Pale Greyblue",
+    "HexColor": "#B0C0D0",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Red",
+    "HexColor": "#AA1122",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Reflective Green",
+    "HexColor": "#40C080",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Sky Grey",
+    "HexColor": "#C0D0E0",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Thinner",
+    "HexColor": "#F0F0F0",
+    "Type": "Technical",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Transparent Red",
+    "HexColor": "#CC2020",
+    "Type": "Technical",
+    "Range": "Model Color",
+    "Equivalents": []
+  },
+  {
+    "Brand": "Vallejo",
+    "Name": "Vermillion",
+    "HexColor": "#E03020",
+    "Type": "Base",
+    "Range": "Model Color",
+    "Equivalents": []
+  }
+]

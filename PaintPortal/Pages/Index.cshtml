@@ -1,0 +1,64 @@
+﻿@page
+@model PaintPortal.Pages.IndexModel
+@{
+    ViewData["Title"] = "Miniature Paint Catalog and Palette Tracker";
+    ViewData["Description"] = "Browse " + Model.PaintCount + " miniature paints from " + string.Join(", ", Model.Brands) + ", find equivalents between brands and keep track of your own paint collection.";
+}
+
+<section class="py-5 text-center">
+    <h1 class="display-5 fw-bold">Welcome to PaintPortal</h1>
+    <p class="lead mx-auto" style="max-width: 640px;">
+        The web companion of PaintManager for miniature painters. Explore paints from
+        @Model.Brands.Count brands, compare equivalents and keep your own palette in one place.
+    </p>
+    <div class="d-flex flex-wrap justify-content-center gap-2">
+        <a class="btn btn-primary btn-lg" asp-page="/Catalog/Index">Browse the catalog</a>
+        @if (User.Identity?.IsAuthenticated == true)
+        {
+            <a class="btn btn-outline-primary btn-lg" asp-page="/Palette/Index">Open my palette</a>
+        }
+        else
+        {
+            <a class="btn btn-outline-primary btn-lg" asp-area="Identity" asp-page="/Account/Register">Create a free account</a>
+        }
+    </div>
+</section>
+
+<section class="row row-cols-1 row-cols-md-3 g-4 mb-5">
+    <div class="col">
+        <div class="card h-100 text-center">
+            <div class="card-body">
+                <p class="display-6 mb-0">@Model.PaintCount</p>
+                <p class="text-muted mb-0">paints in the catalog</p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h2 class="h5">Find equivalents</h2>
+                <p class="mb-0">Out of a colour? See which paints from other brands come closest.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h2 class="h5">Build your palette</h2>
+                <p class="mb-0">Sign in, save the paints you own and track how many pots you have.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mb-4">
+    <h2 class="h4">Brands in the catalog</h2>
+    <ul class="list-inline">
+        @foreach (var brand in Model.Brands)
+        {
+            <li class="list-inline-item">
+                <a class="btn btn-sm btn-outline-secondary" asp-page="/Catalog/Index" asp-route-Brand="@brand">@brand</a>
+            </li>
+        }
+    </ul>
+</section>

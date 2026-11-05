@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Palette
+Disallow: /Identity
+Sitemap: https://localhost:7231/sitemap.xml

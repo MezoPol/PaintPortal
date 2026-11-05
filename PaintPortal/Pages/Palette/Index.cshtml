@@ -1,0 +1,48 @@
+﻿@page
+@model PaintPortal.Pages.Palette.IndexModel
+@{
+    ViewData["Title"] = "My Palette";
+}
+
+<h1 class="mb-3">My Palette</h1>
+
+@if (!Model.Items.Any())
+{
+    <p class="text-muted">Your palette is empty. Browse the <a asp-page="/Catalog/Index">catalog</a> and add some paints.</p>
+}
+else
+{
+    <p class="text-muted">@Model.Items.Count different paints, @Model.Items.Sum(i => i.Quantity) pots in total.</p>
+
+    <div class="table-responsive">
+        <table class="table align-middle">
+            <thead>
+                <tr><th>Colour</th><th>Paint</th><th>Brand</th><th>Quantity</th><th></th></tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td><span class="d-inline-block rounded border" style="width: 32px; height: 32px; background-color: @item.Paint.HexColor;"></span></td>
+                        <td>
+                            <a asp-page="/Catalog/Details" asp-route-id="@item.Paint.Id" asp-route-slug="@Slug.From(item.Paint.Brand + " " + item.Paint.Name)">@item.Paint.Name</a>
+                        </td>
+                        <td>@item.Paint.Brand</td>
+                        <td>
+                            <form method="post" asp-page-handler="Change" asp-route-id="@item.Id" class="d-inline-flex align-items-center gap-2">
+                                <button type="submit" name="delta" value="-1" class="btn btn-sm btn-outline-secondary" aria-label="Decrease quantity">-</button>
+                                <span>@item.Quantity</span>
+                                <button type="submit" name="delta" value="1" class="btn btn-sm btn-outline-secondary" aria-label="Increase quantity">+</button>
+                            </form>
+                        </td>
+                        <td>
+                            <form method="post" asp-page-handler="Remove" asp-route-id="@item.Id">
+                                <button type="submit" class="btn btn-sm btn-outline-danger">Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

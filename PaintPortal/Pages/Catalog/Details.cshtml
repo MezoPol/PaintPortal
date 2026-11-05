@@ -1,0 +1,97 @@
+﻿@page "{id:int}/{slug?}"
+@model PaintPortal.Pages.Catalog.DetailsModel
+@{
+    ViewData["Title"] = $"{Model.Paint.Name} - {Model.Paint.Brand}";
+    ViewData["Description"] = $"{Model.Paint.Name} by {Model.Paint.Brand}: {Model.Paint.Type} paint from the {Model.Paint.Range} range. Colour {Model.Paint.HexColor} and equivalents from other brands.";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-page="/Catalog/Index">Catalog</a></li>
+        <li class="breadcrumb-item active" aria-current="page">@Model.Paint.Name</li>
+    </ol>
+</nav>
+
+<div class="row g-4">
+    <div class="col-12 col-md-5">
+        <div class="rounded border" style="height: 220px; background-color: @Model.Paint.HexColor;"></div>
+    </div>
+    <div class="col-12 col-md-7">
+        <h1>@Model.Paint.Name</h1>
+        <dl class="row">
+            <dt class="col-4">Brand</dt>
+            <dd class="col-8">@Model.Paint.Brand</dd>
+            <dt class="col-4">Type</dt>
+            <dd class="col-8">@Model.Paint.Type</dd>
+            <dt class="col-4">Range</dt>
+            <dd class="col-8">@Model.Paint.Range</dd>
+            <dt class="col-4">Colour</dt>
+            <dd class="col-8">@Model.Paint.HexColor</dd>
+        </dl>
+    </div>
+</div>
+<h2 class="h4 mt-4">Colour details</h2>
+@if (Model.Info != null)
+{
+    <p class="mb-1">
+        Closest named colour: <strong>@Model.Info.Name</strong>
+        @(Model.Info.ExactMatch ? "(exact match)" : "(approximate)")
+    </p>
+    <p class="text-muted small">@Model.Info.Rgb &middot; @Model.Info.Hsl</p>
+}
+else
+{
+    <p class="text-muted">Colour details are temporarily unavailable.</p>
+}
+
+@if (Model.Scheme != null && Model.Scheme.Any())
+{
+    <h3 class="h6">Harmonious colours</h3>
+    <div class="d-flex flex-wrap gap-3 mb-3">
+        @foreach (var color in Model.Scheme)
+        {
+            <div class="text-center">
+                <div class="rounded border" style="width: 72px; height: 48px; background-color: @color.Hex;"></div>
+                <div class="small">@color.Hex</div>
+                <div class="small text-muted">@color.Name</div>
+            </div>
+        }
+    </div>
+}
+
+<h2 class="h4 mt-4">Equivalents from other brands</h2>
+@if (Model.Paint.Equivalents.Any())
+{
+    <div class="table-responsive">
+        <table class="table align-middle">
+            <thead>
+                <tr><th>Colour</th><th>Brand</th><th>Name</th><th>Match</th></tr>
+            </thead>
+            <tbody>
+                @foreach (var eq in Model.Paint.Equivalents.OrderBy(e => e.Brand))
+                {
+                    <tr>
+                        <td><span class="d-inline-block rounded border" style="width: 32px; height: 32px; background-color: @eq.HexColor;"></span></td>
+                        <td>@eq.Brand</td>
+                        <td>@eq.Name</td>
+                        <td>@eq.MatchLevel</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        @if (User.Identity?.IsAuthenticated == true)
+        {
+            <form method="post" asp-page-handler="Add" asp-route-id="@Model.Paint.Id">
+                <button type="submit" class="btn btn-primary">Add to my palette</button>
+            </form>
+        }
+        else
+        {
+            <a class="btn btn-outline-primary" asp-area="Identity" asp-page="/Account/Login">Log in to add to your palette</a>
+        }
+    </div>
+}
+else
+{
+    <p class="text-muted">No equivalents known for this paint.</p>
+}
